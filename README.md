@@ -34,3 +34,11 @@
     python main.py
     ```
     > Use proxychians to bypass filtering in some countries!
+
+<br>
+
+# Previews
+<table align="center">
+    <img align="center" src="https://github.com/Kourva/InlinePost/assets/118578799/a5e73caa-7787-4215-80ed-4ec02c107e10" width=400 /><br>
+    <img align="center" src="https://github.com/Kourva/InlinePost/assets/118578799/f7cfb06e-7724-4fb1-b193-30957db670df" width=400 />
+</table>
