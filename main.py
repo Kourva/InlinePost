@@ -100,8 +100,8 @@ def start_command_handler(message: types.Message) -> NoReturn:
     
     # Make markup using replied data
     markup: quick_markup = quick_markup({(
-        item.split(":")[0].strip()): {
-            "url": item.split(":")[1].strip()
+        item.split(":", maxsplit=1)[0].strip()): {
+            "url": item.split(":", maxsplit=1)[1].strip()
         } for item in replied_data
     })
 
