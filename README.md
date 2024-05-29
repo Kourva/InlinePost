@@ -29,7 +29,16 @@
     ```
     > Note: You need to choose 1st option and install virtualenv before installing requirements!
 
-4. **Run the bot and enjoy**:
+4. **Edit configuration file**:
+    ```json
+    {
+        "token": "xxxxxxxxxx:xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", // Your bot token
+        "channel": "@username"                                 // Your channel's username
+    }
+    ```
+    > Open `config.json` and add required stuff
+
+6. **Run the bot and enjoy**:
     ```bash
     python main.py
     ```
